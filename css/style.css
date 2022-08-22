@@ -1,0 +1,45 @@
+*{
+    margin: 5;
+    padding: 5;
+    box-sizing: border-box;
+    font-style: italic;
+}
+
+
+h1,h2{
+    background-color: #C4C4C4;
+    font-feature-settings: 'cpsp' on;
+    color: #727272;
+}
+
+p{
+    background-image: url('../img/cuadritos.jpg');
+    opacity:0.8;
+    background-position: left;
+    background-repeat: repeat;
+}
+
+
+header,body {
+    font-family: Tahoma;
+    text-align: center;
+}
+
+header img{
+    height: 30%;
+    align-items: center;
+    margin-right: 50px;
+    background-position: center bottom ;
+}
+
+div {
+    background-position: right bottom;
+    background-size: 5px;
+    height: 30%;
+    align-items: right;
+    margin-right: 50px;
+}
+
+
+
+
